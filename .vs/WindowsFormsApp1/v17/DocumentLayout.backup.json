@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\admin\\onedrive\\documents\\finalexamnet\\booklibarytask1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\windowsformsapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\windowsformsapp1\\panelmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50808C6-6C08-4DE1-8C61-59980848399F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\panelmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelMoves.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\PanelMoves.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PanelMoves.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\PanelMoves.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PanelMoves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:34:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\Book.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Book.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\Book.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:44:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:48:33.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\FinalExamNet\\BookLibaryTask1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C# Programming\\Network programming\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\C# Programming\\Network programming\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:48:29.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
